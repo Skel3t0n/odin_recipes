@@ -12,8 +12,9 @@ body
   background-color: #9E768F;
 }
 
+.header{
 
-h1
-{
-  color: white;
+   position: absolute;
+   color: white;
+   left: 580px;
 }
