@@ -1,6 +1,19 @@
-div
+.foodmain
 {
- 
-  height: 30px;
+  position: relative;
+  top: 100px;
+  left:  550px;
+  width: 300px;
+  height: auto;
+}
 
+body
+{
+  background-color: #9E768F;
+}
+
+
+h1
+{
+  color: white;
 }
