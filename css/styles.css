@@ -2,10 +2,20 @@ h1{
 
    position: absolute;
    right: 620px;
-   top: 80px;
+   top: 50px;
    color: #8D7B68;
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    font-size: 70px;
    background-color: #F1DEC9;
 }
 
+
+#rectangle{
+
+  width: 1300px;
+  height: 650px;
+  position: absolute;
+  top: 170px;
+  right:  80px;
+  background-color: #C8B6A6;
+}
