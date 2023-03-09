@@ -6,7 +6,10 @@ h1{
    color: #8D7B68;
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    font-size: 70px;
+   border-radius: 10px;
+   border-style: solid;
    background-color: #F1DEC9;
+
 }
 
 
@@ -17,6 +20,10 @@ h1{
   position: absolute;
   top: 170px;
   right:  80px;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #8D7B68;
   background-color: #C8B6A6;
 }
 
@@ -28,6 +35,8 @@ h1{
    left: 130px;
    position: absolute;
    border-radius: 10px;
+   border-style: solid;
+   border-color: #8D7B68;
    
 }
 
@@ -39,7 +48,9 @@ h2{
   border-radius: 10px;
   color: #8D7B68;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 50px; 
+  font-size: 50px;
+  border-style: solid;
+  border-color: #8D7B68;
 }
 
 .bread
@@ -50,6 +61,8 @@ h2{
    right: 130px;
    position: absolute;
    border-radius: 10px;
+   border-style: solid;
+   border-color: #8D7B68;
 }
 
 h3{
@@ -60,7 +73,9 @@ h3{
   border-radius: 10px;
   color: #8D7B68;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 50px; 
+  font-size: 50px;
+  border-style: solid;
+  border-color: #8D7B68;
 }
 
 h4{
@@ -71,7 +86,9 @@ h4{
   border-radius: 10px;
   color: #8D7B68;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 50px; 
+  font-size: 50px;
+  border-style: solid;
+  border-color: #8D7B68;
 }
 
 .corn
@@ -82,4 +99,6 @@ h4{
    right: 560px;
    position: absolute;
    border-radius: 10px;
+   border-style: solid;
+   border-color: #8D7B68;
 }
