@@ -27,4 +27,19 @@ h1{
    top: 250px;
    left: 130px;
    position: absolute;
+   border-radius: 10px;
+   
+}
+
+h2{
+  position: absolute;
+  top: 600px;
+  left: 175px;
+  background-color: #F1DEC9;
+  border-radius: 10px;
+  color: #8D7B68;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 50px;
+  
+  
 }
