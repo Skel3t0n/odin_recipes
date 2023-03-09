@@ -62,3 +62,24 @@ h3{
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 50px; 
 }
+
+h4{
+  position: absolute;
+  top: 600px;
+  right: 600px;
+  background-color: #F1DEC9;
+  border-radius: 10px;
+  color: #8D7B68;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 50px; 
+}
+
+.corn
+{
+   height: 300px;
+   width: 340px;
+   top: 250px;
+   right: 560px;
+   position: absolute;
+   border-radius: 10px;
+}
