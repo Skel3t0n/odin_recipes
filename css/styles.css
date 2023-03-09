@@ -1,36 +1,8 @@
-.foodmain{
-
+#hd-img{
+  background-image: url("img/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 1458px;
+  height: 100vh;
   position: relative;
-  height: 100px;
-  width: 100px;
-  right: 0px;
-  height: 600px;
-  top: 0px;
-  left: 0px ;
-  margin: auto;
-  
 }
-
-body
-{
-  background: gray;
-}
-
-.header{
-
-   position: relative;
-   color: white;
-   left: 580px;
-   font-family: 'Courier New', Courier, monospace;
-   top: 500px;
-}
-
-.recipes{
-  
-  position: absolute;
-  top: 700px;
-  left: 630px;
-  color: white;
-   font-family: 'Courier New', Courier, monospace;
-}
-
