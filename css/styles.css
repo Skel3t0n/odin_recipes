@@ -1,8 +1,11 @@
-#hd-img{
-  background-image: url("img/background.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  width: 1458px;
-  height: 100vh;
-  position: relative;
+h1{
+
+   position: absolute;
+   right: 620px;
+   top: 80px;
+   color: #8D7B68;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 70px;
+   background-color: #F1DEC9;
 }
+
