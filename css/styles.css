@@ -68,7 +68,7 @@ h2{
 h3{
   position: absolute;
   top: 600px;
-  right: 175px;
+  right: 190px;
   background-color: #F1DEC9;
   border-radius: 10px;
   color: #8D7B68;
@@ -101,4 +101,38 @@ h4{
    border-radius: 10px;
    border-style: solid;
    border-color: #8D7B68;
+}
+
+
+.chocofacts{
+
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+  color: whitesmoke;
+  position: absolute;
+  top: 720px;
+  left: 130px;
+  font-style: italic;
+}
+
+.cornfacts{
+
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+  color: whitesmoke;
+  position: absolute;
+  top: 720px;
+  left: 595px;
+  font-style: italic;
+}
+
+.breadfacts{
+
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+  color: whitesmoke;
+  position: absolute;
+  top: 720px;
+  right: 170px;
+  font-style: italic;
 }
