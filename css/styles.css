@@ -195,3 +195,20 @@ h4{
  padding: 0;
  box-sizing: border-box;
 }
+
+
+/* For moving everything except the nav buttons */
+.everything {
+  position: relative;
+  top: 40px;
+}
+
+/* Styles nav bar */
+.navbar {
+  position: absolute;
+  background-color: rgb(42, 26, 2);
+  width: 100px;
+  height: 200px;
+  top: 10px;
+
+}
