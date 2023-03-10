@@ -154,3 +154,44 @@ h4{
   font-style: italic;
 }
 
+/* This is for styling the menu container of the signup and about buttons */
+.menu-container {
+  color: #8d7b68;
+  
+  padding: px;
+}
+
+/* Displays flex and edits the height and radius of the container*/
+.menu-container {
+  display: flex;
+  position: absolute;
+  width: 440px;
+  height: 70px;
+  justify-content: center;
+  justify-content: space-between;
+  right: 0px
+  
+    
+}
+
+/* Styles the actual signup and about button*/
+
+.menu-container div {
+  border: 1px solid #8d7b68;  /* For debugging */
+  width: 48%;
+  display: flex;
+  padding-left: 70px;
+  padding-top: 20px;
+  border-radius: 10px;
+  border: 3px solid;
+  background-color: #f1dec9;
+  font-size: 20px;
+
+}
+/* Universal margin */
+
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
