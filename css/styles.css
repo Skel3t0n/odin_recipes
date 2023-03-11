@@ -203,12 +203,3 @@ h4{
   top: 40px;
 }
 
-/* Styles nav bar */
-.navbar {
-  position: absolute;
-  background-color: rgb(42, 26, 2);
-  width: 100px;
-  height: 200px;
-  top: 10px;
-
-}
